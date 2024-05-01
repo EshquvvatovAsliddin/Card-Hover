@@ -20,7 +20,7 @@
 
 ### Links
 
-- Youtube URL: [Link](https://youtu.be/86l7hi8xpaI)
+<!-- - Youtube URL: [Link](https://youtu.be/86l7hi8xpaI) -->
 - Live Site URL: [Link](https://amir-ranjbr.github.io/cardHoverSimple)
 
 ### Built with
@@ -29,9 +29,9 @@
 - CSS
 
 ## Author
-
-- YouTube - [Weird-Code](https://www.youtube.com/@Weird-Code)
-- Github - [Amir-Ranjbr](https://github.com/Amir-Ranjbr)
+<!-- 
+- YouTube - [Weird-Code](https://www.youtube.com/@Weird-Code) -->
+- Github - [EshquvvatovAsliddin](https://github.com/EshquvvatovAsliddin)
 
 <div align="center">
 
